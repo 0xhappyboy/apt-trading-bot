@@ -1,4 +1,8 @@
+mod transform;
+mod wallet;
 use teloxide::prelude::*;
+use transform::*;
+use wallet::*;
 
 #[tokio::main]
 async fn main() {
