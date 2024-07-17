@@ -1,4 +1,4 @@
-# <center> apt trading bot </center>  
+# <center> Apt Trading Bot </center>  
 telegram trading bot working on aptos network.
 TG : [AptTradingBot](https://t.me/AptTradingBot)
 # Dependencies
